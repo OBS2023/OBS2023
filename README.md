@@ -3,8 +3,8 @@
 ###  <h3><✨Full stack Developer✨/></h3>
 ###  ----------------------------------------------------------------------------------------
 ###          
-###  <p>💬“Discipline is the bridge between goals and accomplishment.” – Jim Rohn</p>  
-###
+###  <p>💬“Discipline is the bridge between goals and accomplishment.” – Jim Rohn</p> 
+###  
 ###  ----------------------------------------------------------------------------------------
 ###  🔭 HTML5/CSS3
 ###  🌱 JavaScript
