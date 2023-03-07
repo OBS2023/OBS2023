@@ -6,13 +6,19 @@
 ###  <p>💬“Discipline is the bridge between goals and accomplishment.” – Jim Rohn</p> 
 ###  
 ###  ----------------------------------------------------------------------------------------
-###  🔭 HTML5/CSS3
-###  🌱 JavaScript
-###  👯 PHP
-###  🤔 REACTJs
-###  💬 C#
-###  📫 ...
-
+###  ✨SKILLS
+###
+###       > 🔭 HTML5/CSS3
+###       > 🌱 JavaScript
+###       > 👯 PHP
+###       > 🤔 REACTJs
+###       > 💬 C#
+###       > 📫 ...
+###
+###  ✨Interest
+###       - Play piano/guitar
+###       - reading
+###       - Cooking
 
 <!--
 **OBS2023/OBS2023** is ⚡ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
