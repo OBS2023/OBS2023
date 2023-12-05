@@ -7,7 +7,7 @@
 ###                                                                                                                                          
 ###                                                     °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 
-### ![gitlab](https://github.com/OBS2023/OBS2023/assets/119520147/b10c01b9-b6e7-4e74-a03d-928fb69b0278)![react](https://github.com/OBS2023/OBS2023/assets/119520147/06766492-01d7-4162-9d7e-779843fc0642)
+### ![gitlab](https://github.com/OBS2023/OBS2023/assets/119520147/b10c01b9-b6e7-4e74-a03d-928fb69b0278)![react](https://github.com/OBS2023/OBS2023/assets/119520147/06766492-01d7-4162-9d7e-779843fc0642)![angular](https://github.com/OBS2023/OBS2023/assets/119520147/190c8607-5fe4-480a-b2a0-36dc5a250d2b)![java](https://github.com/OBS2023/OBS2023/assets/119520147/e1886dc0-26a8-4356-afcf-3ad31ddf52cc)![Js](https://github.com/OBS2023/OBS2023/assets/119520147/a0c1f2e2-78e0-44dd-9d33-12b9ae32d1f3)
 
 
 ###  ✨SKILLS
