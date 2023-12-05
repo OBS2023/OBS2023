@@ -7,7 +7,8 @@
 ###                                                                                                                                          
 ###                                                     °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
 
-### ![gitlab](https://github.com/OBS2023/OBS2023/assets/119520147/b10c01b9-b6e7-4e74-a03d-928fb69b0278)
+### ![gitlab](https://github.com/OBS2023/OBS2023/assets/119520147/b10c01b9-b6e7-4e74-a03d-928fb69b0278)![react](https://github.com/OBS2023/OBS2023/assets/119520147/06766492-01d7-4162-9d7e-779843fc0642)
+
 
 ###  ✨SKILLS
 ###
