@@ -20,6 +20,9 @@
 ###       - reading
 ###       - Cooking
 
+###  ✨GRAPHE GITLAB
+###    ![Capture](https://github.com/OBS2023/OBS2023/assets/119520147/a3f2488b-c9af-4558-812d-46d40148833c)
+
 <!--
 **OBS2023/OBS2023** is ⚡ a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
